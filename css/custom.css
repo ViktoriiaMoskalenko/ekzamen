@@ -1,0 +1,42 @@
+#navbar{
+  background-image: url("../img/black_background.png");
+  height: 40px;
+}
+
+#header-content{
+  background: white;
+  height: 80px;
+}
+
+#block-views-block-block-2-block-1-2 p{
+  color: #838b8c;
+  font-size: 13px;
+  text-align: right;
+}
+
+#block-views-block-block-2-block-1-2, .bl2-h2{
+  color: #343a3b;
+  font-size: 32px;
+}
+
+#block-views-block-block-2-block-1-2 a{
+  color: white;
+  border-radius: 20px;
+  background-color: #16d428;
+  padding: 7px;
+  margin-top: 10px;
+}
+#after-main{
+  background-image: url("../img/gray_background.png");
+  height: 150px;
+}
+
+#block-views-block-block3-block-1-2{
+  color: #838b8c;
+  text-align: center;
+  margin: 0 auto;
+}
+
+
+
+
